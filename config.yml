@@ -17,7 +17,7 @@ params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: "Christian Gitter"
     description: "Es gibt Tage, da verspeist man den Bären, und Tage, da wird man eben vom Bären verspeist."
-    author: Me
+    author: ["Chris"]
     # author: ["Me", "You"] # multiple authors
     images: [] # ["<link or path of image for opengraph, twitter-cards>"]
 
