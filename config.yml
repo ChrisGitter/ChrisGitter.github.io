@@ -4,6 +4,10 @@ title: christiangitter.de
 paginate: 5
 theme: PaperMod
 
+module:
+  imports:
+    path: "https://github.com/adityatelange/hugo-PaperMod"
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
