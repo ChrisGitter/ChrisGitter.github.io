@@ -1,8 +1,8 @@
-baseURL: ChrisGitter.github.io
+baseURL: https://ChrisGitter.github.io
 languageCode: de-de
 title: christiangitter.de
 paginate: 5
-theme: PaperMod
+theme: github.com/adityatelange/hugo-PaperMod
 
 enableRobotsTXT: true
 buildDrafts: false
