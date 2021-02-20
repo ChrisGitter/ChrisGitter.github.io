@@ -11,7 +11,8 @@ buildExpired: false
 
 module:
   imports:
-    path: PaperMod
+    path: github.com/adityatelange/hugo-PaperMod
+    disabled: false
 
 minify:
     disableXML: true
