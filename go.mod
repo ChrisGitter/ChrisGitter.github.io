@@ -1,5 +1,3 @@
-module github.com/ChrisGitter/ChrisGitter.github.io
+module website
 
 go 1.16
-
-require github.com/adityatelange/hugo-PaperMod v0.0.0-20210216130755-e53bfe514a2c // indirect
