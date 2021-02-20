@@ -9,6 +9,10 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+module:
+  imports:
+    path: PaperMod
+
 minify:
     disableXML: true
     minifyOutput: true
