@@ -76,6 +76,8 @@ params:
     #   url: "https://stackoverflow.com"
     - name: github
       url: "https://github.com/ChrisGitter/"
+    - name: mastodon
+      url: "https://mstdn.io/@neozen"
 
   #    analytics:
   #        google:
